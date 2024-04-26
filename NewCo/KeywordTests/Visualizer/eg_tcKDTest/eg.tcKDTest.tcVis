@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{78E4D2BE-0201-456D-9CED-8A5AF5EEBC96}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45405.2207638889" objectName="Aliases.browser.BrowserWindow" objectLeft="-11" objectTop="-11" objectRight="1931" objectBottom="1019" clickPointX="1307" clickPointY="30" imageFileName="tcvi86601703158641.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45405.2208680556" objectName="Aliases.browser.pageHrLeadersBrighterBusinessOut.headerSolutions.textnodeSolutions.textnodeSolutions2.textnodeSolutions3" objectLeft="677" objectTop="232" objectRight="768" objectBottom="268" clickPointX="727" clickPointY="251" imageFileName="tcvi86611562158644.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45405.2209375" objectName="Aliases.browser.pageHrLeadersBrighterBusinessOut.headerSolutions.textnodeSolutions.textnodeLearnAboutAllOurSolution.linkLearnAboutAllOurSolutions" objectLeft="302" objectTop="334" objectRight="704" objectBottom="366" clickPointX="636" clickPointY="359" imageFileName="tcvi86616718158646.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Newco_Solutions" key="{CEBE8C8A-7C65-4B1B-A0A4-848947305C8F}" path="Newco_Solutions.js" />
+		<child name="Newco_Script" key="{59253BFF-895A-46B6-81DC-70257756B5BC}" path="Newco_Script.js" />
+	</children>
+</Root>

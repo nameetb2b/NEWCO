@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{1CAE6F69-F60C-450C-A6A5-826423FCE0DD}">
+				<TypeInfo Item0="{F1187DB5-3704-4442-AA23-47A38A4B46BB}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{347DE909-9E2D-4FBA-B294-457C5E20F16A}">
+						<TypeInfo Item0="{7EBE23BD-941F-4E4A-BA63-7B69465D3C7A}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageHrLeadersBrighterBusinessOut" Key="{A8D89553-F048-4E74-A36C-F393A8D21719}">
+								<Image FileName="-677793664" Left="11" Top="141" Right="1931" Bottom="1018" />
+								<TypeInfo Item0="{ED334B2E-7597-4A9B-8CF8-D0B311CCC972}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="figure" Key="{38CA0199-B807-4B25-9FF8-7778C295BB99}">
+										<Image FileName="543393160" Left="964" Top="386" Right="1596" Bottom="895" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div/div/div/div/figure[contains(@class, &apos;wp-block-image&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/div/div/figure" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageBrightminePeopleData" Key="{888A9A0A-4AA5-4D2C-BB9C-2F5FA5245448}">
+										<Image FileName="543393160" Left="964" Top="386" Right="1596" Bottom="895" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[contains(@src, &apos;header_uk-main_brightmine.webp&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//img[contains(@class, &apos;wp-image-5459&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/figure/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{F788F670-A81F-4E6A-A472-E1CFD87AADFA}">
+										<Image FileName="1829946410" Left="0" Top="130" Right="1895" Bottom="7639" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Protect your employees and reputation by avoiding pay inequality&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;home&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="headerSolutions" Key="{BE46DD92-F894-4FA1-82B6-3B42307B15F8}">
+										<Image FileName="2054579157" Left="0" Top="170" Right="1895" Bottom="288" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{264091D7-576A-49DB-B2AE-586176DE32C2}">
+										<Image FileName="2054579157" Left="677" Top="215" Right="1641" Bottom="287" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{5CC66511-D782-4AD4-B930-30EA5C8A15BE}">
+										<Image FileName="2054579157" Left="677" Top="215" Right="768" Bottom="287" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{CAD8F747-C8D7-4871-B457-08E447F2EF9D}">
+										<Image FileName="2054579157" Left="677" Top="232" Right="768" Bottom="268" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeLearnAboutAllOurSolution" Key="{119EF7C0-3F9E-485C-AC64-6006BE242BE1}">
+										<Image FileName="1486339960" Left="302" Top="334" Right="1593" Bottom="366" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h2[.=&apos;Learn about all our solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li//h2[contains(@class, &apos;wp-block-heading&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li//h2" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkLearnAboutAllOurSolutions" Key="{2E86B3DD-3930-4121-920C-AC201A21FF33}">
+										<Image FileName="1486339960" Left="302" Top="334" Right="704" Bottom="366" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Learn about all our solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/ul/li//h2/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleAchieveBrighterBusiness" Key="{CA9571FA-BE25-474E-8BBF-07F02DA4296A}">
+										<Image FileName="-1367485784" Left="326" Top="510" Right="1568" Bottom="1339" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;Achieve brighter business outcomes&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/article[contains(@class, &apos;ootb-tabcordion&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/article" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonHowCanBrightmineHelpYou" Key="{1878C3B1-2A0B-4164-AD58-B75B271E31CB}">
+										<Image FileName="-1367485784" Left="947" Top="510" Right="1568" Bottom="611" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;How can Brightmine help you?&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;has-primary-gray-background-color&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleAttractAndRetainTopTalent" Key="{FFA18EB6-B55A-4C7C-8B83-FBA41F48007B}">
+										<Image FileName="-1827680414" Left="334" Top="470" Right="1561" Bottom="1181" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;Increase agility and efficiency&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/div/article[contains(@class, &apos;ootb-tabcordion&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/div/article" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonCreateEquitableReward" Key="{CFB6360F-DCC1-4D86-90A3-C2E77A9D419F}">
+										<Image FileName="-1827680414" Left="585" Top="470" Right="809" Bottom="620" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Create equitable reward strategies&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonStayCompliantAndReduceRisk" Key="{46BE891A-02C5-4637-8248-D44815D6A6D8}">
+										<Image FileName="-1169756021" Left="836" Top="458" Right="1060" Bottom="608" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Stay compliant and reduce risk&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonIncreaseAgilityAndEfficien" Key="{E56A9A4C-75EE-4CEC-AB69-97D67C907464}">
+										<Image FileName="-2084432027" Left="1086" Top="458" Right="1310" Bottom="608" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Increase agility and efficiency&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonDeliverGreaterBusinessImpa" Key="{57A4A96E-556F-4D08-A5EE-704BD5CDB53C}">
+										<Image FileName="-1640286053" Left="1337" Top="458" Right="1561" Bottom="608" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[.=&apos;Deliver greater business impact&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="sectionPailtonEngineeringLtd" Key="{01E396DA-6F5E-4BE2-A3FA-56AE287D1DB5}">
+										<Image FileName="-128853009" Left="138" Top="-103" Right="1758" Bottom="667" />
+										<Selectors>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Pailton Engineering Ltd.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]/section[contains(@class, &apos;wp-block-lnrs-card-sliders&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]/section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode1" Key="{78EBA999-F560-4594-8033-5F00A27336F6}">
+										<Image FileName="-128853009" Left="138" Top="662" Right="1758" Bottom="701" />
+										<Selectors>
+											<Selector>
+												<Value Value="//section/ul[@role=&apos;tablist&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;slick-dots&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section/ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="button2Of2" Key="{D1B4AEA5-A52E-4091-B19D-A5232CAE3EFD}">
+										<Image FileName="-128853009" Left="954" Top="674" Right="970" Bottom="690" />
+										<TypeInfo Item0="{BDC30D4C-0634-42F5-8A18-3C22AD46D31B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#slick-slide-control01" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/button[@role=&apos;tab&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{C3EA941B-D9F0-43C5-B584-95356E030119}">
+								<Image FileName="-265135624" Left="-11" Top="-11" Right="1931" Bottom="1019" />
+								<TypeInfo Item0="{D3D2A0F6-90E9-4D8E-BD1B-290B487E3DD7}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageHrSolutionsBuiltOnDataAnalyt" Key="{E9624B88-ADF5-4ED5-B9FD-88403D3972A7}">
+								<Image FileName="-436052846" Left="0" Top="130" Right="1920" Bottom="1007" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode" Key="{1C8FE177-92AC-488C-ADB5-9DDA0C5A39C2}">
+										<Image FileName="-436052846" Left="0" Top="130" Right="1895" Bottom="4160" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Data, analytics and insights for brighter business outcomes&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;page-template-default&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="headerSolutions" Key="{FB7C1FAB-765E-489F-9F28-F4B9D7D6B060}">
+										<Image FileName="187419219" Left="0" Top="117" Right="1895" Bottom="235" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{669AFD2C-0143-4ADA-8AF2-68337F482878}">
+										<Image FileName="187419219" Left="677" Top="162" Right="1641" Bottom="234" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{AD19F066-FEA3-409D-A41A-3E9918510B0D}">
+										<Image FileName="187419219" Left="677" Top="162" Right="768" Bottom="234" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{2DEF85C7-2E37-407F-89DC-BEF7BC23FBC4}">
+										<Image FileName="187419219" Left="677" Top="179" Right="768" Bottom="215" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAttractRetainTopTalent" Key="{E13FFD85-D932-4B23-A45B-246DA0BD6533}">
+										<Image FileName="1008226901" Left="302" Top="470" Right="558" Bottom="494" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Attract &amp; retain top talent&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHrSolutionsBuiltOnDataAnalyt2" Key="{A4854886-2185-4EAF-AE0E-60055C1EFC0D}">
+								<Image FileName="233849790" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/attract-retain-talent/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{47DF8103-1A42-4EB6-94FF-FECD79C73442}">
+										<Image FileName="-938020383" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{2D2663B5-12BF-41C1-8583-2C8C49F4BFF5}">
+										<Image FileName="-938020383" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{393A0C1A-1536-48CB-9042-33EA5EA009AE}">
+										<Image FileName="-938020383" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{F1E0E506-87A4-4E3C-B89B-AF9CA350B921}">
+										<Image FileName="-938020383" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkIncreaseEfficiency" Key="{2E86DDE5-FC2D-453C-BB9A-41EA928F094A}">
+										<Image FileName="-652099124" Left="302" Top="514" Right="487" Bottom="538" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Increase efficiency&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsE" Key="{A6FEFFCE-554D-40A6-AC75-676ED2F41467}">
+								<Image FileName="233849790" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/efficiencies-automation/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{6D06A1BE-985E-4C16-AACB-620147CF6782}">
+										<Image FileName="122238053" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{6DBCE37D-5F64-49F3-9AD1-78EDAEB02991}">
+										<Image FileName="122238053" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{F3CAF8C1-4D07-480E-B2CA-2E5081732093}">
+										<Image FileName="122238053" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{123A71BE-79C4-48C2-B860-FD4F92371DF7}">
+										<Image FileName="122238053" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkDeliverGreaterBusinessImpact" Key="{FA0C8225-130E-4532-A0A2-9E25B115D96A}">
+										<Image FileName="2117448035" Left="302" Top="559" Right="560" Bottom="607" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Deliver greater business impact&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsB" Key="{DD7ED49D-B047-4785-A813-50646F6AD67B}">
+								<Image FileName="233849790" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/business-impact/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{35629C39-C504-4275-9EE8-5B63A5E24899}">
+										<Image FileName="-536526426" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{779F4742-439A-462B-BAD2-22503ECDA535}">
+										<Image FileName="-536526426" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{9AB8366E-C3A7-4A26-B795-C1DA81914686}">
+										<Image FileName="-536526426" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkReduceComplianceRisk" Key="{3857A065-01DB-4CE8-AFFC-3B8C8CB6B076}">
+										<Image FileName="-536526426" Left="302" Top="627" Right="539" Bottom="651" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Reduce compliance risk&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[4]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{1596E97A-420E-4CB7-839F-C1D28E44CE52}">
+										<Image FileName="99657881" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDeliverHrThatMakesImpactAcro" Key="{A7ADC821-2F17-4D5F-ADFF-95EC99EEACAB}">
+								<Image FileName="233849790" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/reduce-compliance-risk/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{C5AE18B1-90F3-498E-956D-8A144535A325}">
+										<Image FileName="374200129" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{487117E1-5666-445D-AA6A-6BE189470B78}">
+										<Image FileName="374200129" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{2D1C1D64-3598-4AE3-81DC-8F394B8C2FA2}">
+										<Image FileName="374200129" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{3869712B-FC51-4803-B6C5-0447EDE10CD4}">
+										<Image FileName="374200129" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCreateEquitableReward" Key="{6FFB6E29-B7F5-48EB-B4F0-F3B4D9C03462}">
+										<Image FileName="-1425933725" Left="302" Top="671" Right="560" Bottom="719" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Create equitable reward strategies&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWprsBoardAgileBoardCbsJira" Key="{E99F1A0F-DC46-4A18-9EFD-2242AE842351}">
+								<Image FileName="437483360" Left="0" Top="130" Right="1920" Bottom="1007" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://jira.atlassian.coa.rbxd.ds/jira/secure/RapidBoard.jspa*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeJira" Key="{17A81B05-1AD4-4B88-9363-023AD876EF0A}">
+										<Image FileName="437483360" Left="0" Top="130" Right="1920" Bottom="1008" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#jira" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Skip to main content&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;aui-layout&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageReduceRiskStayCompliantWithI" Key="{6ABBE8E9-16C6-4A09-9F04-BB7D9C5A1203}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/reward-strategies/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{C46C8080-1EE3-4832-91F5-EA2E66B2AB38}">
+										<Image FileName="105156078" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{BD75FFE5-0071-4FF2-B169-9D32840EC00E}">
+										<Image FileName="105156078" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{58A6070C-AD24-4754-9547-27883481F88C}">
+										<Image FileName="105156078" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{00FAFB7B-B59F-4A7A-A8F3-01B49079D42B}">
+										<Image FileName="105156078" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCreateEquitableReward" Key="{F3F8AAC9-CB1F-4196-9DD3-EF2F5A5B87B5}">
+										<Image FileName="-1724267596" Left="302" Top="671" Right="560" Bottom="719" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Create equitable reward strategies&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkLargeEnterprise" Key="{5159DE5D-6F29-4646-A3B9-CF3335F40E37}">
+										<Image FileName="499295818" Left="617" Top="470" Right="782" Bottom="494" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Large/Enterprise&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsE2" Key="{852D16B9-A3B1-40AE-B601-04B7C486D6F1}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/enterprise-business/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{B7809F57-8B6F-4030-9307-ED4AE41CB852}">
+										<Image FileName="-1456056311" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{6F5D0285-816C-4B09-A95C-211EDE41B9F4}">
+										<Image FileName="-1456056311" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{72FDC7E0-C4D5-49ED-ABA1-8ADC4108651C}">
+										<Image FileName="-1456056311" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{0F28F9B8-22C0-456F-ACF4-E267D9C6ABF5}">
+										<Image FileName="-1456056311" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkSmallMidSize" Key="{85D381C6-9B1E-415A-8865-E1C843642616}">
+										<Image FileName="359591376" Left="617" Top="514" Right="768" Bottom="538" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Small/Mid-Size&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsM" Key="{2919C0A1-3176-4DB5-B80C-6BB1ACF766BE}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/mid-size-business/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{68A8F8D1-2CBF-4B9B-87F9-A5369A7B3A67}">
+										<Image FileName="-1661222764" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{EE62C708-CA15-4711-A91D-75FEA267CFD4}">
+										<Image FileName="-1661222764" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{C7A2F309-2881-4FD4-BC85-41EA80523DD2}">
+										<Image FileName="-1661222764" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{BEDDF286-3033-42B3-A33F-98F7483406FA}">
+										<Image FileName="-1661222764" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkChro" Key="{FB24A3FC-7222-4EE4-A1D5-8E2E04EDCA19}">
+										<Image FileName="-2125545347" Left="931" Top="470" Right="988" Bottom="494" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;CHRO&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageAgileHrSolutionsForBusinesse" Key="{BF58A2CE-36D3-4509-BE1D-54713B38D592}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/chro/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{9338569B-3991-4E3B-80FF-5B7AFFBF0C26}">
+										<Image FileName="-1500729291" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{85FD5554-CAC7-4BB7-8C4E-1C7586369770}">
+										<Image FileName="-1500729291" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{B528F689-DF3F-4F77-B543-2EB9C3E93D50}">
+										<Image FileName="-1500729291" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{3FC5D726-8810-45B9-877C-FD3D2E04B1A4}">
+										<Image FileName="-1500729291" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkHrOperationsAndCompliance" Key="{7C103DD3-308D-422A-AE69-B02B0B5691C0}">
+										<Image FileName="-486601498" Left="931" Top="514" Right="1189" Bottom="562" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;HR Operations and Compliance&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHelpingChrosAchieveBrighterB" Key="{4D916D47-CCD4-489C-B20D-FA781803F734}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/hr-operations-compliance/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{C8ACEAD9-0DF8-4DA9-8B22-750AF5C6C1E1}">
+										<Image FileName="1827191118" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{FB7334E5-3B0F-43DC-9577-C7BBA62B94B3}">
+										<Image FileName="1827191118" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{E0F464B4-4E5D-4786-8286-AA9971E8093D}">
+										<Image FileName="1827191118" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{6E0624F3-7488-40A2-B098-6881FD42AD51}">
+										<Image FileName="1827191118" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkTotalRewardsAndCompensation" Key="{0BC59C41-F59D-4577-9E08-F8CAD97BCFB9}">
+										<Image FileName="-1825642158" Left="931" Top="583" Right="1189" Bottom="631" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Total Rewards and Compensation&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/ul/li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsT" Key="{524BAD60-1F5F-4AC2-A1A3-C90C96A5C9C0}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/total-rewards-compensation/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{C781204E-865D-44A4-856D-FF689D218C64}">
+										<Image FileName="577047777" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{05C7A05C-38F4-400E-8ADD-7EEE4396E548}">
+										<Image FileName="577047777" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{99E18AD4-B205-40C4-8632-4406FC57AB67}">
+										<Image FileName="577047777" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{426F9F7A-E2F6-46D2-A7E7-82D3F6989801}">
+										<Image FileName="577047777" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPeopleAnalytics" Key="{4DA40534-542B-4568-BAAC-5EB81CEEEF77}">
+										<Image FileName="411678314" Left="931" Top="651" Right="1093" Bottom="675" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;People Analytics&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/ul/li[4]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsP" Key="{B640BCA5-1F1B-4575-B3B8-78071B93DD00}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/people-analytics/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{333FF7EB-682D-42F2-80ED-9BB2018B822E}">
+										<Image FileName="713881545" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{23967D88-6B4D-4B85-B7D4-F6A33A910EA9}">
+										<Image FileName="713881545" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{8DA26431-5CFD-4E0A-A1B2-76D3C7BD36CB}">
+										<Image FileName="713881545" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{BA726130-0F01-4316-B4B7-BEF8AF00DC98}">
+										<Image FileName="713881545" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkHrConsultantHroPeo" Key="{6D0D9ACA-66B6-4FAC-8BDA-F16B6AAAE463}">
+										<Image FileName="1047400788" Left="931" Top="695" Right="1189" Bottom="743" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;HR Consultant &amp; HRO/PEO&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/ul/li[5]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkSolutionsH" Key="{359AD09F-0D51-400F-9FD6-205E142FE3E4}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/hr-consultant/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{7D3DE55F-0191-4957-8BFC-9551A6740849}">
+										<Image FileName="1372610069" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{0EB8D11F-E686-4D1B-AEC1-576FC85CDEEC}">
+										<Image FileName="1372610069" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions2" Key="{60D58B3D-AEA7-4699-B46A-B5F5CBC044A3}">
+										<Image FileName="1372610069" Left="677" Top="218" Right="768" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-34f70775c7a0869618229f8239a5f2b9&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions3" Key="{F724A95E-9DFC-4970-BC37-1FC32DD14F32}">
+										<Image FileName="1372610069" Left="677" Top="235" Right="768" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//ul/li/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{A994846E-7409-48FD-A329-3CB16702104A}">
+										<Image FileName="-853386732" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts2" Key="{33F0F29D-A579-4738-9DA1-BC9C953F58A4}">
+										<Image FileName="-853386732" Left="799" Top="235" Right="885" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkHrComplianceCentre" Key="{553FB2CA-7E4F-4287-A176-8CD91E1BB768}">
+										<Image FileName="1589388602" Left="697" Top="403" Right="941" Bottom="427" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;HR &amp; Compliance Centre&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[2]//div//ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkProductsHr" Key="{A6A9107C-0AB2-4A02-8E8C-920887B3F74A}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/hr-compliance-centre/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{7686733B-249C-4B29-9E16-13E159EDDB6C}">
+										<Image FileName="487400966" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{C70B6891-EF50-408A-9533-61BDEC11C44D}">
+										<Image FileName="487400966" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{BED8542D-B15B-4F12-9D6B-0E1444011537}">
+										<Image FileName="487400966" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAutomatedHandbookManagement" Key="{EE629E55-D0EC-40F7-8F52-8DC76856C7BD}">
+										<Image FileName="487400966" Left="697" Top="448" Right="1047" Bottom="472" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Automated Handbook Management&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[2]//div//ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkProductsAu" Key="{D5EC2B56-570E-4265-9BC3-5AB4CAFEDAA0}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/automated-handbook-management/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{974C4738-CFAF-495D-9997-E94BFF27293B}">
+										<Image FileName="-348438797" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{1F519430-6B43-4279-8408-1BDFB4EE375E}">
+										<Image FileName="-348438797" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{7DBFE7F1-A38B-4C22-9185-80912419D392}">
+										<Image FileName="-348438797" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts2" Key="{7FEFC3BB-BBA6-46F5-A4D1-DFFF1D069E14}">
+										<Image FileName="-348438797" Left="799" Top="235" Right="885" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCollectiveLabourAgreements" Key="{3EE2696A-9FDF-4D56-B179-A3EDDDE822D9}">
+										<Image FileName="1829982919" Left="697" Top="492" Right="1056" Bottom="516" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Collective Labour Agreements (CAO)&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[2]//div//ul/li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkProductsCo" Key="{D39E2DD8-CC4F-4FEB-A485-EC72623AE305}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/collective-labour-agreements/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{AD6DEEA2-182B-47D9-A20F-C5FD00935334}">
+										<Image FileName="-1161456798" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{38D18949-4C99-4EA2-B6CA-F279BBC06E8D}">
+										<Image FileName="-1161456798" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{F0269808-59D7-4032-9FB2-62FFB15D195E}">
+										<Image FileName="-1161456798" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts2" Key="{52230D48-3830-4CF2-A4D3-7C0E77EDB512}">
+										<Image FileName="-1161456798" Left="799" Top="235" Right="885" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCompensationPlanning" Key="{F4155DAF-C517-4A7E-B13F-7B6C8F6E5BB9}">
+										<Image FileName="582178367" Left="697" Top="536" Right="930" Bottom="560" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Compensation Planning&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[2]//div//ul/li[4]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageAccessVitalRealTimeDataWithC" Key="{99A7B88B-4888-430B-BDD9-328433C267C8}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/compensation-planning/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{36DFF86B-68B1-4C54-8675-8A30ECE3811F}">
+										<Image FileName="623917841" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{4DAFAAA2-F9EC-460E-86D1-946B8A4220BD}">
+										<Image FileName="623917841" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{B4DD8CA1-893E-4F65-8E76-CB71899EE629}">
+										<Image FileName="623917841" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts2" Key="{0C80CADE-CA23-4A90-B6B6-B939505DDE54}">
+										<Image FileName="623917841" Left="799" Top="235" Right="885" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPayEquityAnalytics" Key="{FFD669C9-23CA-4F2D-A190-4D3AC267670B}">
+										<Image FileName="317224890" Left="697" Top="580" Right="894" Bottom="604" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Pay Equity Analytics&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[2]//div//ul/li[5]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageAttractAndRetainTopTalentWit" Key="{2D2B0571-441D-461C-8178-FEB9851187FF}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/pay-equity-analytics/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{68835159-0DFA-4AE7-B92E-6FC063923DE0}">
+										<Image FileName="1173307303" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{48F9C568-C6A7-400E-8C4D-025FFDFB262E}">
+										<Image FileName="1173307303" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts" Key="{A3126196-7BCE-40C0-9000-7286E41800DE}">
+										<Image FileName="1173307303" Left="799" Top="218" Right="885" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-ce24493c2e641db224bc374da957b64f&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeProducts2" Key="{511FF405-0F46-4665-8FB2-3866D9EEBBB5}">
+										<Image FileName="1173307303" Left="799" Top="235" Right="885" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[2]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAboutUs" Key="{476097A2-1C06-4765-821D-C93EC336ECE9}">
+										<Image FileName="-885296544" Left="917" Top="218" Right="1004" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;About us&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-0f71fa526ed9c5d763476b97ec067b16&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAboutUs2" Key="{BC8191B9-F995-4544-A83D-92EC350C0A1B}">
+										<Image FileName="-885296544" Left="917" Top="235" Right="1004" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;About us&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAboutUs" Key="{56106282-63AA-4DDE-A263-623F3C92BBF4}">
+										<Image FileName="552231388" Left="918" Top="317" Right="1007" Bottom="341" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;About us&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[3]//ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageTrackManageAndClosePayGapsWi" Key="{7C6857BA-CDE4-4F7A-9FD2-14904C64A58D}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/about/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{6A837449-ACAF-4946-89CC-556AE9BF8CB6}">
+										<Image FileName="-911068713" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{8CC5E052-FAAF-4214-8766-0C759299055C}">
+										<Image FileName="-911068713" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAboutUs" Key="{BA32D074-B110-4EDF-80A3-6D49912FC4DE}">
+										<Image FileName="-911068713" Left="917" Top="218" Right="1004" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;About us&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-0f71fa526ed9c5d763476b97ec067b16&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeAboutUs2" Key="{7B011447-96E7-4C92-8115-68ADD07C42DD}">
+										<Image FileName="-911068713" Left="917" Top="235" Right="1004" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;About us&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/p[contains(@class, &apos;has-primary-gray-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkWhyChooseBrightmine" Key="{8F632F2B-FD70-41D2-B156-297BDEB325F5}">
+										<Image FileName="-919229744" Left="918" Top="361" Right="1162" Bottom="385" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Why choose Brightmine?&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[3]//ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageEmpoweringHrLeadersToDeliver" Key="{53A0F595-5BA6-43F2-B7D3-26351D43C445}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/about/why-choose-brightmine/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{91E6F8AA-7401-4D87-BDAD-B14B1668F3C7}">
+										<Image FileName="-477715336" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{C0D6D9AA-984F-4019-9671-67F712E54568}">
+										<Image FileName="-477715336" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeResources" Key="{69496F69-2597-4403-8692-1F81D2D0B404}">
+										<Image FileName="-477715336" Left="1035" Top="218" Right="1135" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Resources&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkResources" Key="{5125D885-EEE6-4EE1-854C-14A7361BFF98}">
+										<Image FileName="-477715336" Left="1035" Top="235" Right="1135" Bottom="258" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Resources&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageChooseAProvenHrPartnerWithOv" Key="{127895C2-97C0-4FE1-A5D7-610C537918E7}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/resources/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{0C15069A-000F-4E65-A3D8-2CC98996F625}">
+										<Image FileName="295696373" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{EC0F0923-F86F-49CD-B168-42BB511C7272}">
+										<Image FileName="295696373" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCommunity" Key="{488D927B-2057-4DB3-9E7D-3BE6118AEDB6}">
+										<Image FileName="295696373" Left="1166" Top="218" Right="1278" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Community&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-669d8981bc47df988787edb1a83d8d44&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCommunity2" Key="{5DDF62F9-B5BC-45CA-BDBF-8BF22C35A919}">
+										<Image FileName="295696373" Left="1166" Top="235" Right="1278" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Community&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p[contains(@class, &apos;has-primary-purple-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkCaseStudies" Key="{8A85C1F7-CDC9-4587-9B0A-503238169165}">
+										<Image FileName="839746631" Left="1175" Top="317" Right="1302" Bottom="341" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Case studies&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[5]//ul/li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkCaseStudie" Key="{F53C570D-0B07-4CD3-89A0-1079380B7A17}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/case-studies/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{088920B9-EDA3-4C31-A495-94BADB72BE63}">
+										<Image FileName="1684579117" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{8CCBB5B3-0A72-4090-ADB7-44CBA5FEABD5}">
+										<Image FileName="1684579117" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCommunity" Key="{024E0FB4-FD5A-4B3A-A7A5-7519A3B1C1FB}">
+										<Image FileName="1684579117" Left="1166" Top="218" Right="1278" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Community&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;wp-elements-669d8981bc47df988787edb1a83d8d44&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeCommunity2" Key="{CA2D1131-A9A5-4AE1-A24B-2935ECCF9E53}">
+										<Image FileName="1684579117" Left="1166" Top="235" Right="1278" Bottom="271" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Community&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p[contains(@class, &apos;has-primary-purple-color&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[5]/p" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPartners" Key="{359DF777-1464-4B8B-9953-E7EF215600C5}">
+										<Image FileName="752699343" Left="1175" Top="361" Right="1258" Bottom="385" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Partners&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul/li[5]//ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwBrightmineComUkPartners" Key="{B2DD719B-FF93-4877-91B7-12BC6DD4EB1F}">
+								<Image FileName="-1266046936" Left="0" Top="181" Right="1920" Bottom="1008" />
+								<TypeInfo Item0="{4D36D2A7-8BEA-4559-954B-E9855D992873}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/partners/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerSolutions" Key="{29FF04F8-69E5-4CC7-B357-8D770F18787F}">
+										<Image FileName="1891432827" Left="0" Top="173" Right="1895" Bottom="291" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;alignfull&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSolutions" Key="{1928F5E0-CC4F-4364-8DE9-F630B23A77BC}">
+										<Image FileName="1891432827" Left="677" Top="218" Right="1641" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;lnrs-navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeBookDemo" Key="{587A8DA6-4AB1-4C59-8BC2-1EDC68996C0E}">
+										<Image FileName="1891432827" Left="1433" Top="218" Right="1591" Bottom="290" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Book demo&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;is-style-lnrs-button-bar-item-icon&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkBookDemo" Key="{7D653E19-4968-495F-BC48-EE9242A016A6}">
+										<Image FileName="1891432827" Left="1433" Top="230" Right="1591" Bottom="268" />
+										<TypeInfo Item0="{064E62A3-A0F4-4425-A692-E183F9D4ECE0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[2]/ul/li[7]//a[contains(@class, &apos;wp-block-button__link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/ul/li[7]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHelpingChrosAchieveBrighterB2" Key="{BA551803-B496-4F4F-B2FF-AEA26B926326}">
+								<Image FileName="1734692651" Left="11" Top="141" Right="1930" Bottom="1018" />
+								<TypeInfo Item0="{ED334B2E-7597-4A9B-8CF8-D0B311CCC972}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/solutions/chro/" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageReduceRiskAndDriveSuccessWit" Key="{59781A92-13A1-4A19-8B5A-FAC526BCBD53}">
+								<Image FileName="80169621" Left="11" Top="141" Right="1930" Bottom="1018" />
+								<TypeInfo Item0="{ED334B2E-7597-4A9B-8CF8-D0B311CCC972}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/products/hr-compliance-centre/" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageRequestADemoBrightmineUk" Key="{2AADB864-798D-4BC5-9165-AF71A07C050D}">
+								<Image FileName="1917922733" Left="11" Top="141" Right="1930" Bottom="1018" />
+								<TypeInfo Item0="{ED334B2E-7597-4A9B-8CF8-D0B311CCC972}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.brightmine.com/uk/demo/" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{347DE909-9E2D-4FBA-B294-457C5E20F16A}">
+			<Child Name="pageHrLeadersBrighterBusinessOut" Owner="{A8D89553-F048-4E74-A36C-F393A8D21719}">
+				<Child Name="figure" Owner="{38CA0199-B807-4B25-9FF8-7778C295BB99}">
+					<Child Name="imageBrightminePeopleData" Owner="{888A9A0A-4AA5-4D2C-BB9C-2F5FA5245448}" />
+				</Child>
+				<Child Name="textnode" Owner="{F788F670-A81F-4E6A-A472-E1CFD87AADFA}" />
+				<Child Name="headerSolutions" Owner="{BE46DD92-F894-4FA1-82B6-3B42307B15F8}">
+					<Child Name="textnodeSolutions" Owner="{264091D7-576A-49DB-B2AE-586176DE32C2}">
+						<Child Name="textnodeSolutions2" Owner="{5CC66511-D782-4AD4-B930-30EA5C8A15BE}">
+							<Child Name="textnodeSolutions3" Owner="{CAD8F747-C8D7-4871-B457-08E447F2EF9D}" />
+						</Child>
+						<Child Name="textnodeLearnAboutAllOurSolution" Owner="{119EF7C0-3F9E-485C-AC64-6006BE242BE1}">
+							<Child Name="linkLearnAboutAllOurSolutions" Owner="{2E86B3DD-3930-4121-920C-AC201A21FF33}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="articleAchieveBrighterBusiness" Owner="{CA9571FA-BE25-474E-8BBF-07F02DA4296A}">
+					<Child Name="buttonHowCanBrightmineHelpYou" Owner="{1878C3B1-2A0B-4164-AD58-B75B271E31CB}" />
+				</Child>
+				<Child Name="articleAttractAndRetainTopTalent" Owner="{FFA18EB6-B55A-4C7C-8B83-FBA41F48007B}">
+					<Child Name="buttonCreateEquitableReward" Owner="{CFB6360F-DCC1-4D86-90A3-C2E77A9D419F}" />
+					<Child Name="buttonStayCompliantAndReduceRisk" Owner="{46BE891A-02C5-4637-8248-D44815D6A6D8}" />
+					<Child Name="buttonIncreaseAgilityAndEfficien" Owner="{E56A9A4C-75EE-4CEC-AB69-97D67C907464}" />
+					<Child Name="buttonDeliverGreaterBusinessImpa" Owner="{57A4A96E-556F-4D08-A5EE-704BD5CDB53C}" />
+				</Child>
+				<Child Name="sectionPailtonEngineeringLtd" Owner="{01E396DA-6F5E-4BE2-A3FA-56AE287D1DB5}">
+					<Child Name="textnode1" Owner="{78EBA999-F560-4594-8033-5F00A27336F6}">
+						<Child Name="button2Of2" Owner="{D1B4AEA5-A52E-4091-B19D-A5232CAE3EFD}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{C3EA941B-D9F0-43C5-B584-95356E030119}" />
+			<Child Name="pageHrSolutionsBuiltOnDataAnalyt" Owner="{E9624B88-ADF5-4ED5-B9FD-88403D3972A7}">
+				<Child Name="textnode" Owner="{1C8FE177-92AC-488C-ADB5-9DDA0C5A39C2}" />
+				<Child Name="headerSolutions" Owner="{FB7C1FAB-765E-489F-9F28-F4B9D7D6B060}">
+					<Child Name="textnodeSolutions" Owner="{669AFD2C-0143-4ADA-8AF2-68337F482878}">
+						<Child Name="textnodeSolutions2" Owner="{AD19F066-FEA3-409D-A41A-3E9918510B0D}">
+							<Child Name="textnodeSolutions3" Owner="{2DEF85C7-2E37-407F-89DC-BEF7BC23FBC4}" />
+							<Child Name="linkAttractRetainTopTalent" Owner="{E13FFD85-D932-4B23-A45B-246DA0BD6533}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageHrSolutionsBuiltOnDataAnalyt2" Owner="{A4854886-2185-4EAF-AE0E-60055C1EFC0D}">
+				<Child Name="headerSolutions" Owner="{47DF8103-1A42-4EB6-94FF-FECD79C73442}">
+					<Child Name="textnodeSolutions" Owner="{2D2663B5-12BF-41C1-8583-2C8C49F4BFF5}">
+						<Child Name="textnodeSolutions2" Owner="{393A0C1A-1536-48CB-9042-33EA5EA009AE}">
+							<Child Name="textnodeSolutions3" Owner="{F1E0E506-87A4-4E3C-B89B-AF9CA350B921}" />
+							<Child Name="linkIncreaseEfficiency" Owner="{2E86DDE5-FC2D-453C-BB9A-41EA928F094A}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsE" Owner="{A6FEFFCE-554D-40A6-AC75-676ED2F41467}">
+				<Child Name="headerSolutions" Owner="{6D06A1BE-985E-4C16-AACB-620147CF6782}">
+					<Child Name="textnodeSolutions" Owner="{6DBCE37D-5F64-49F3-9AD1-78EDAEB02991}">
+						<Child Name="textnodeSolutions2" Owner="{F3CAF8C1-4D07-480E-B2CA-2E5081732093}">
+							<Child Name="textnodeSolutions3" Owner="{123A71BE-79C4-48C2-B860-FD4F92371DF7}" />
+							<Child Name="linkDeliverGreaterBusinessImpact" Owner="{FA0C8225-130E-4532-A0A2-9E25B115D96A}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsB" Owner="{DD7ED49D-B047-4785-A813-50646F6AD67B}">
+				<Child Name="headerSolutions" Owner="{35629C39-C504-4275-9EE8-5B63A5E24899}">
+					<Child Name="textnodeSolutions" Owner="{779F4742-439A-462B-BAD2-22503ECDA535}">
+						<Child Name="textnodeSolutions2" Owner="{9AB8366E-C3A7-4A26-B795-C1DA81914686}">
+							<Child Name="linkReduceComplianceRisk" Owner="{3857A065-01DB-4CE8-AFFC-3B8C8CB6B076}" />
+							<Child Name="textnodeSolutions3" Owner="{1596E97A-420E-4CB7-839F-C1D28E44CE52}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageDeliverHrThatMakesImpactAcro" Owner="{A7ADC821-2F17-4D5F-ADFF-95EC99EEACAB}">
+				<Child Name="headerSolutions" Owner="{C5AE18B1-90F3-498E-956D-8A144535A325}">
+					<Child Name="textnodeSolutions" Owner="{487117E1-5666-445D-AA6A-6BE189470B78}">
+						<Child Name="textnodeSolutions2" Owner="{2D1C1D64-3598-4AE3-81DC-8F394B8C2FA2}">
+							<Child Name="textnodeSolutions3" Owner="{3869712B-FC51-4803-B6C5-0447EDE10CD4}" />
+							<Child Name="linkCreateEquitableReward" Owner="{6FFB6E29-B7F5-48EB-B4F0-F3B4D9C03462}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWprsBoardAgileBoardCbsJira" Owner="{E99F1A0F-DC46-4A18-9EFD-2242AE842351}">
+				<Child Name="textnodeJira" Owner="{17A81B05-1AD4-4B88-9363-023AD876EF0A}" />
+			</Child>
+			<Child Name="pageReduceRiskStayCompliantWithI" Owner="{6ABBE8E9-16C6-4A09-9F04-BB7D9C5A1203}">
+				<Child Name="headerSolutions" Owner="{C46C8080-1EE3-4832-91F5-EA2E66B2AB38}">
+					<Child Name="textnodeSolutions" Owner="{BD75FFE5-0071-4FF2-B169-9D32840EC00E}">
+						<Child Name="textnodeSolutions2" Owner="{58A6070C-AD24-4754-9547-27883481F88C}">
+							<Child Name="textnodeSolutions3" Owner="{00FAFB7B-B59F-4A7A-A8F3-01B49079D42B}" />
+							<Child Name="linkCreateEquitableReward" Owner="{F3F8AAC9-CB1F-4196-9DD3-EF2F5A5B87B5}" />
+							<Child Name="linkLargeEnterprise" Owner="{5159DE5D-6F29-4646-A3B9-CF3335F40E37}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsE2" Owner="{852D16B9-A3B1-40AE-B601-04B7C486D6F1}">
+				<Child Name="headerSolutions" Owner="{B7809F57-8B6F-4030-9307-ED4AE41CB852}">
+					<Child Name="textnodeSolutions" Owner="{6F5D0285-816C-4B09-A95C-211EDE41B9F4}">
+						<Child Name="textnodeSolutions2" Owner="{72FDC7E0-C4D5-49ED-ABA1-8ADC4108651C}">
+							<Child Name="textnodeSolutions3" Owner="{0F28F9B8-22C0-456F-ACF4-E267D9C6ABF5}" />
+							<Child Name="linkSmallMidSize" Owner="{85D381C6-9B1E-415A-8865-E1C843642616}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsM" Owner="{2919C0A1-3176-4DB5-B80C-6BB1ACF766BE}">
+				<Child Name="headerSolutions" Owner="{68A8F8D1-2CBF-4B9B-87F9-A5369A7B3A67}">
+					<Child Name="textnodeSolutions" Owner="{EE62C708-CA15-4711-A91D-75FEA267CFD4}">
+						<Child Name="textnodeSolutions2" Owner="{C7A2F309-2881-4FD4-BC85-41EA80523DD2}">
+							<Child Name="textnodeSolutions3" Owner="{BEDDF286-3033-42B3-A33F-98F7483406FA}" />
+							<Child Name="linkChro" Owner="{FB24A3FC-7222-4EE4-A1D5-8E2E04EDCA19}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageAgileHrSolutionsForBusinesse" Owner="{BF58A2CE-36D3-4509-BE1D-54713B38D592}">
+				<Child Name="headerSolutions" Owner="{9338569B-3991-4E3B-80FF-5B7AFFBF0C26}">
+					<Child Name="textnodeSolutions" Owner="{85FD5554-CAC7-4BB7-8C4E-1C7586369770}">
+						<Child Name="textnodeSolutions2" Owner="{B528F689-DF3F-4F77-B543-2EB9C3E93D50}">
+							<Child Name="textnodeSolutions3" Owner="{3FC5D726-8810-45B9-877C-FD3D2E04B1A4}" />
+							<Child Name="linkHrOperationsAndCompliance" Owner="{7C103DD3-308D-422A-AE69-B02B0B5691C0}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageHelpingChrosAchieveBrighterB" Owner="{4D916D47-CCD4-489C-B20D-FA781803F734}">
+				<Child Name="headerSolutions" Owner="{C8ACEAD9-0DF8-4DA9-8B22-750AF5C6C1E1}">
+					<Child Name="textnodeSolutions" Owner="{FB7334E5-3B0F-43DC-9577-C7BBA62B94B3}">
+						<Child Name="textnodeSolutions2" Owner="{E0F464B4-4E5D-4786-8286-AA9971E8093D}">
+							<Child Name="textnodeSolutions3" Owner="{6E0624F3-7488-40A2-B098-6881FD42AD51}" />
+							<Child Name="linkTotalRewardsAndCompensation" Owner="{0BC59C41-F59D-4577-9E08-F8CAD97BCFB9}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsT" Owner="{524BAD60-1F5F-4AC2-A1A3-C90C96A5C9C0}">
+				<Child Name="headerSolutions" Owner="{C781204E-865D-44A4-856D-FF689D218C64}">
+					<Child Name="textnodeSolutions" Owner="{05C7A05C-38F4-400E-8ADD-7EEE4396E548}">
+						<Child Name="textnodeSolutions2" Owner="{99E18AD4-B205-40C4-8632-4406FC57AB67}">
+							<Child Name="textnodeSolutions3" Owner="{426F9F7A-E2F6-46D2-A7E7-82D3F6989801}" />
+							<Child Name="linkPeopleAnalytics" Owner="{4DA40534-542B-4568-BAAC-5EB81CEEEF77}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsP" Owner="{B640BCA5-1F1B-4575-B3B8-78071B93DD00}">
+				<Child Name="headerSolutions" Owner="{333FF7EB-682D-42F2-80ED-9BB2018B822E}">
+					<Child Name="textnodeSolutions" Owner="{23967D88-6B4D-4B85-B7D4-F6A33A910EA9}">
+						<Child Name="textnodeSolutions2" Owner="{8DA26431-5CFD-4E0A-A1B2-76D3C7BD36CB}">
+							<Child Name="textnodeSolutions3" Owner="{BA726130-0F01-4316-B4B7-BEF8AF00DC98}" />
+							<Child Name="linkHrConsultantHroPeo" Owner="{6D0D9ACA-66B6-4FAC-8BDA-F16B6AAAE463}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkSolutionsH" Owner="{359AD09F-0D51-400F-9FD6-205E142FE3E4}">
+				<Child Name="headerSolutions" Owner="{7D3DE55F-0191-4957-8BFC-9551A6740849}">
+					<Child Name="textnodeSolutions" Owner="{0EB8D11F-E686-4D1B-AEC1-576FC85CDEEC}">
+						<Child Name="textnodeSolutions2" Owner="{60D58B3D-AEA7-4699-B46A-B5F5CBC044A3}">
+							<Child Name="textnodeSolutions3" Owner="{F724A95E-9DFC-4970-BC37-1FC32DD14F32}" />
+						</Child>
+						<Child Name="textnodeProducts" Owner="{A994846E-7409-48FD-A329-3CB16702104A}">
+							<Child Name="textnodeProducts2" Owner="{33F0F29D-A579-4738-9DA1-BC9C953F58A4}" />
+							<Child Name="linkHrComplianceCentre" Owner="{553FB2CA-7E4F-4287-A176-8CD91E1BB768}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkProductsHr" Owner="{A6A9107C-0AB2-4A02-8E8C-920887B3F74A}">
+				<Child Name="headerSolutions" Owner="{7686733B-249C-4B29-9E16-13E159EDDB6C}">
+					<Child Name="textnodeSolutions" Owner="{C70B6891-EF50-408A-9533-61BDEC11C44D}">
+						<Child Name="textnodeProducts" Owner="{BED8542D-B15B-4F12-9D6B-0E1444011537}">
+							<Child Name="linkAutomatedHandbookManagement" Owner="{EE629E55-D0EC-40F7-8F52-8DC76856C7BD}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkProductsAu" Owner="{D5EC2B56-570E-4265-9BC3-5AB4CAFEDAA0}">
+				<Child Name="headerSolutions" Owner="{974C4738-CFAF-495D-9997-E94BFF27293B}">
+					<Child Name="textnodeSolutions" Owner="{1F519430-6B43-4279-8408-1BDFB4EE375E}">
+						<Child Name="textnodeProducts" Owner="{7DBFE7F1-A38B-4C22-9185-80912419D392}">
+							<Child Name="textnodeProducts2" Owner="{7FEFC3BB-BBA6-46F5-A4D1-DFFF1D069E14}" />
+							<Child Name="linkCollectiveLabourAgreements" Owner="{3EE2696A-9FDF-4D56-B179-A3EDDDE822D9}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkProductsCo" Owner="{D39E2DD8-CC4F-4FEB-A485-EC72623AE305}">
+				<Child Name="headerSolutions" Owner="{AD6DEEA2-182B-47D9-A20F-C5FD00935334}">
+					<Child Name="textnodeSolutions" Owner="{38D18949-4C99-4EA2-B6CA-F279BBC06E8D}">
+						<Child Name="textnodeProducts" Owner="{F0269808-59D7-4032-9FB2-62FFB15D195E}">
+							<Child Name="textnodeProducts2" Owner="{52230D48-3830-4CF2-A4D3-7C0E77EDB512}" />
+							<Child Name="linkCompensationPlanning" Owner="{F4155DAF-C517-4A7E-B13F-7B6C8F6E5BB9}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageAccessVitalRealTimeDataWithC" Owner="{99A7B88B-4888-430B-BDD9-328433C267C8}">
+				<Child Name="headerSolutions" Owner="{36DFF86B-68B1-4C54-8675-8A30ECE3811F}">
+					<Child Name="textnodeSolutions" Owner="{4DAFAAA2-F9EC-460E-86D1-946B8A4220BD}">
+						<Child Name="textnodeProducts" Owner="{B4DD8CA1-893E-4F65-8E76-CB71899EE629}">
+							<Child Name="textnodeProducts2" Owner="{0C80CADE-CA23-4A90-B6B6-B939505DDE54}" />
+							<Child Name="linkPayEquityAnalytics" Owner="{FFD669C9-23CA-4F2D-A190-4D3AC267670B}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageAttractAndRetainTopTalentWit" Owner="{2D2B0571-441D-461C-8178-FEB9851187FF}">
+				<Child Name="headerSolutions" Owner="{68835159-0DFA-4AE7-B92E-6FC063923DE0}">
+					<Child Name="textnodeSolutions" Owner="{48F9C568-C6A7-400E-8C4D-025FFDFB262E}">
+						<Child Name="textnodeProducts" Owner="{A3126196-7BCE-40C0-9000-7286E41800DE}">
+							<Child Name="textnodeProducts2" Owner="{511FF405-0F46-4665-8FB2-3866D9EEBBB5}" />
+						</Child>
+						<Child Name="textnodeAboutUs" Owner="{476097A2-1C06-4765-821D-C93EC336ECE9}">
+							<Child Name="textnodeAboutUs2" Owner="{BC8191B9-F995-4544-A83D-92EC350C0A1B}" />
+							<Child Name="linkAboutUs" Owner="{56106282-63AA-4DDE-A263-623F3C92BBF4}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageTrackManageAndClosePayGapsWi" Owner="{7C6857BA-CDE4-4F7A-9FD2-14904C64A58D}">
+				<Child Name="headerSolutions" Owner="{6A837449-ACAF-4946-89CC-556AE9BF8CB6}">
+					<Child Name="textnodeSolutions" Owner="{8CC5E052-FAAF-4214-8766-0C759299055C}">
+						<Child Name="textnodeAboutUs" Owner="{BA32D074-B110-4EDF-80A3-6D49912FC4DE}">
+							<Child Name="textnodeAboutUs2" Owner="{7B011447-96E7-4C92-8115-68ADD07C42DD}" />
+							<Child Name="linkWhyChooseBrightmine" Owner="{8F632F2B-FD70-41D2-B156-297BDEB325F5}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageEmpoweringHrLeadersToDeliver" Owner="{53A0F595-5BA6-43F2-B7D3-26351D43C445}">
+				<Child Name="headerSolutions" Owner="{91E6F8AA-7401-4D87-BDAD-B14B1668F3C7}">
+					<Child Name="textnodeSolutions" Owner="{C0D6D9AA-984F-4019-9671-67F712E54568}">
+						<Child Name="textnodeResources" Owner="{69496F69-2597-4403-8692-1F81D2D0B404}">
+							<Child Name="linkResources" Owner="{5125D885-EEE6-4EE1-854C-14A7361BFF98}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageChooseAProvenHrPartnerWithOv" Owner="{127895C2-97C0-4FE1-A5D7-610C537918E7}">
+				<Child Name="headerSolutions" Owner="{0C15069A-000F-4E65-A3D8-2CC98996F625}">
+					<Child Name="textnodeSolutions" Owner="{EC0F0923-F86F-49CD-B168-42BB511C7272}">
+						<Child Name="textnodeCommunity" Owner="{488D927B-2057-4DB3-9E7D-3BE6118AEDB6}">
+							<Child Name="textnodeCommunity2" Owner="{5DDF62F9-B5BC-45CA-BDBF-8BF22C35A919}" />
+							<Child Name="linkCaseStudies" Owner="{8A85C1F7-CDC9-4587-9B0A-503238169165}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkCaseStudie" Owner="{F53C570D-0B07-4CD3-89A0-1079380B7A17}">
+				<Child Name="headerSolutions" Owner="{088920B9-EDA3-4C31-A495-94BADB72BE63}">
+					<Child Name="textnodeSolutions" Owner="{8CCBB5B3-0A72-4090-ADB7-44CBA5FEABD5}">
+						<Child Name="textnodeCommunity" Owner="{024E0FB4-FD5A-4B3A-A7A5-7519A3B1C1FB}">
+							<Child Name="textnodeCommunity2" Owner="{CA2D1131-A9A5-4AE1-A24B-2935ECCF9E53}" />
+							<Child Name="linkPartners" Owner="{359DF777-1464-4B8B-9953-E7EF215600C5}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwBrightmineComUkPartners" Owner="{B2DD719B-FF93-4877-91B7-12BC6DD4EB1F}">
+				<Child Name="headerSolutions" Owner="{29FF04F8-69E5-4CC7-B357-8D770F18787F}">
+					<Child Name="textnodeSolutions" Owner="{1928F5E0-CC4F-4364-8DE9-F630B23A77BC}">
+						<Child Name="textnodeBookDemo" Owner="{587A8DA6-4AB1-4C59-8BC2-1EDC68996C0E}">
+							<Child Name="linkBookDemo" Owner="{7D653E19-4968-495F-BC48-EE9242A016A6}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageHelpingChrosAchieveBrighterB2" Owner="{BA551803-B496-4F4F-B2FF-AEA26B926326}" />
+			<Child Name="pageReduceRiskAndDriveSuccessWit" Owner="{59781A92-13A1-4A19-8B5A-FAC526BCBD53}" />
+			<Child Name="pageRequestADemoBrightmineUk" Owner="{2AADB864-798D-4BC5-9165-AF71A07C050D}" />
+		</Child>
+	</LogicalNodes>
+</Root>
