@@ -1,0 +1,26 @@
+[0425/183704.592:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672966 [10,6]
+[0425/183704.777:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672966 [10,6]
+[0425/183704.777:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672966 [10,6]
+[0425/183704.777:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672966 [10,6]
+[0425/183704.777:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672966 [10,6]
+[0425/183705.397:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: about:blank (1)
+[0425/183706.119:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://js.chargebee.com/assets/cbjs-2024.04.24-08.11/v2/master.html (1)
+[0425/183706.999:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://app.visualtest.io/onboarding (1)
+[0425/183707.400:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[0425/183707.806:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[0425/183707.806:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[0425/183707.806:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[0425/183707.806:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[0425/183707.807:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640266 [11,10]
+[0425/183707.807:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640266 [11,10]
+[0425/183707.807:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640266 [11,10]
+[0425/183707.807:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640266 [11,10]
+[0425/183709.401:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542153 [14,9]
+[0425/183709.961:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542153 [14,9]
+[0425/183709.961:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542153 [14,9]
+[0425/183709.961:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542153 [14,9]
+[0425/183709.961:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542153 [14,9]
+[0425/183709.968:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0425/183710.836:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://newassets.hcaptcha.com/captcha/v1/b1c589a/static/hcaptcha.html (1)
+[0425/183710.837:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://newassets.hcaptcha.com/captcha/v1/b1c589a/static/hcaptcha.html (1)
+[0425/183713.540:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'textContent')", source: https://www.youtube.com/embed/sXsifqUUv1w (1)
